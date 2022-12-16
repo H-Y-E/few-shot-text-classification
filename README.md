@@ -5,7 +5,7 @@
 提取码：mpis
 
 ### 基于TF-IDF的词替换增强后的数据集
-每条数据基于所在数据集abstract部分构成的语料库，替换其abstract中的五个词，生成一条句子。生成文件中原语句与其对应增强后的语句紧邻<br>
+每条数据基于所在数据集abstract部分构成的语料库，替换其abstract中的五个词，生成一条句子。生成文件中原语句与其对应增强后的语句紧邻。<br>
 * [new_train_TF.json(1950条)](https://github.com/H-Y-E/few-shot-text-classification_CCF-baseline/tree/main/few-shot-text-classificatoin/input/data_aug)<br>
 * [mytrain_TF.json(1743条)](https://github.com/H-Y-E/few-shot-text-classification_CCF-baseline/tree/main/few-shot-text-classificatoin/input/data_aug)<br>
 
