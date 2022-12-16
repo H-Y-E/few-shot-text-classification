@@ -1,4 +1,4 @@
-## few-shot-text-classification_CCF-baseline
+## few-shot-text-classification
 ### BERT模型
 下载pytorch_model.bin放到input/bert-base-chinese目录下<br>
 链接：https://pan.baidu.com/s/1EfGn9pAd_mbmAB_bZrWHZg <br>
