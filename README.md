@@ -1,7 +1,7 @@
 # few-shot-text-classification_CCF-baseline
 ### BERT模型
 下载pytorch_model.bin放到input/bert-base-chinese目录下<br>
-链接：https://pan.baidu.com/s/1EfGn9pAd_mbmAB_bZrWHZg 
+链接：https://pan.baidu.com/s/1EfGn9pAd_mbmAB_bZrWHZg <br>
 提取码：mpis
 
 ### 基于TF-IDF的词替换增强后的数据集
