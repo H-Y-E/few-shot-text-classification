@@ -1,4 +1,4 @@
-# few-shot-text-classification_CCF-baseline
+## few-shot-text-classification_CCF-baseline
 ### BERT模型
 下载pytorch_model.bin放到input/bert-base-chinese目录下<br>
 链接：https://pan.baidu.com/s/1EfGn9pAd_mbmAB_bZrWHZg <br>
@@ -18,7 +18,7 @@
 ### 训练效果
 |  训练集  | F1_macro  |
 |  ----  | ----  |
-| new_train.json | 0.6784743670571368 |
-| new_train_TF.json |0.686600732901836 (↑ 0.0082)|
-| mytrain.json  |0.5921483873650565|
-|mytrain_TF.json|0.6283421097079 (↑ 0.03619)|
+| new_train.json | 0.67847 |
+| new_train_TF.json |0.68660 (↑ 0.0082)|
+| mytrain.json  |0.59214|
+|mytrain_TF.json|0.62834 (↑ 0.0362)|
