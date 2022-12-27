@@ -30,6 +30,6 @@ kun哥修改后的CCF_baseline(增添了lstm层)
 [Data_And_Performance] ：
 | 数据 | 说明 | 验证集_f1_macro | [测试集](https://github.com/H-Y-E/few-shot-text-classification/blob/main/few-shot-text-classificatoin/input/new_test.json) |
 | :----: | :----: | ---- | ---- |
-| new_train.json | 元数据 |   | 0.68 |
+| new_train.json | 原数据 |   | 0.68 |
 | [new_train_TF.json](https://github.com/H-Y-E/few-shot-text-classification/blob/main/few-shot-text-classificatoin/input/data_aug/new_train_TF.json) | 1:1生成增强数据 | 0.9579 | 0.6892(↑0.0092) |
 | [new_train_TF_3.json](https://github.com/H-Y-E/few-shot-text-classification/blob/main/few-shot-text-classificatoin/input/data_aug/new_train_TF_3.json) | 1:3生成增强数据 | 1.0 | 0.6902(↑0.0102) |
